@@ -1,6 +1,6 @@
 ---
 title: "get-on-with-it"
-date: 1968-11-05
+category: wednesday
 ---
 
 Why worry-- does a machine
