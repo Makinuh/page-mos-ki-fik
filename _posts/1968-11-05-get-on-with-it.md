@@ -1,0 +1,9 @@
+---
+title: "get-on-with-it"
+date: 1968-11-05
+---
+
+Why worry-- does a machine
+deign to optimize and clean
+memory unless given input 
+that requires output to do it?
