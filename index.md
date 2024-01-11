@@ -1,3 +1,5 @@
 ---
-title: think of things you haven't thought about
+layout: page
 ---
+
+# think of things you haven't thought about
